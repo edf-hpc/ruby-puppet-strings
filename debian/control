@@ -1,0 +1,20 @@
+Source: ruby-puppet-strings
+Section: ruby
+Priority: optional
+Maintainer: Debian Ruby Extras Maintainers <pkg-ruby-extras-maintainers@lists.alioth.debian.org>
+Uploaders:  <>
+Build-Depends: debhelper (>= 7.0.50~), gem2deb
+Standards-Version: 3.9.5
+Vcs-Git: git://anonscm.debian.org/pkg-ruby-extras/ruby-puppet-strings.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-ruby-extras/ruby-puppet-strings.git;a=summary
+Homepage: https://github.com/puppetlabs/puppetlabs-strings
+Testsuite: autopkgtest
+XS-Ruby-Versions: all
+
+Package: ruby-puppet-strings
+Architecture: all
+XB-Ruby-Versions: ${ruby:Versions}
+Depends: ${shlibs:Depends}, ${misc:Depends}, ruby | ruby-interpreter
+# puppet (>= 3.7.0), yard (~> 0.8)
+Description: Puppet documentation via YARD
+ Puppet documentation via YARD

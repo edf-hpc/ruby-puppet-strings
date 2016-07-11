@@ -1,0 +1,5 @@
+ruby-puppet-strings (0.4.0-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #nnnn)
+
+ -- root <root@thfront1.unassigned-domain>  Mon, 11 Jul 2016 10:38:05 +0100
