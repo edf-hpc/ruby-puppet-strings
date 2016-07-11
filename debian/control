@@ -1,8 +1,7 @@
 Source: ruby-puppet-strings
 Section: ruby
 Priority: optional
-Maintainer: Debian Ruby Extras Maintainers <pkg-ruby-extras-maintainers@lists.alioth.debian.org>
-Uploaders:  <>
+Maintainer: Thomas Hamel <thomas-externe.hamel@edf.fr>
 Build-Depends: debhelper (>= 7.0.50~), gem2deb
 Standards-Version: 3.9.5
 Vcs-Git: git://anonscm.debian.org/pkg-ruby-extras/ruby-puppet-strings.git
