@@ -26,7 +26,7 @@ License: Apache-2.0
  For a local copy of the license, see /usr/share/common-licenses/Apache-2.0
 
 Files: debian/*
-Copyright: 2016 EDF 
+Copyright: 2016 EDF
 License: GPL-2+
 
 License: GPL-2+
@@ -49,4 +49,3 @@ License: GPL-2+
  On Debian systems, the full text of the GNU General Public
  License version 2 can be found in the file
  "/usr/share/common-licenses/GPL-2".
-
