@@ -5,7 +5,6 @@ Maintainer: Thomas Hamel <thomas-externe.hamel@edf.fr>
 Build-Depends: debhelper (>= 9), gem2deb
 Standards-Version: 3.9.5
 Homepage: https://github.com/puppetlabs/puppetlabs-strings
-Testsuite: autopkgtest
 XS-Ruby-Versions: all
 
 Package: ruby-puppet-strings
